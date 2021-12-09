@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&display=swap');
+.root{
+    --primary-color:#1E40AF;
+}
+body{
+    font-family: 'Merriweather',serif;
+    margin:0px
+}
+.container{
+   padding-right: 7rem 1rem;
+}
+.container-center{
+    max-width:600px;
+    margin:auto;
+    margin-top: 2rem;
+    text-align: center;
+    
+}
+.nav{
+        background-color:#1E40AF;
+        color: white;
+        padding:1rem;
+        border-bottom-left-radius:1rem ;
+        
+}
+.link1{
+    text-decoration: none;
+    color:white;
+}
+.img{
+    padding-top: 5rem;
+}
+.primary{
+    background-color: #1E40AF;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+.list-non-bullet{
+    list-style:none;
+}
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+.navigation{
+    background-color:#1E40AF;
+    color: white;
+    padding:1rem ;
+    border-bottom-left-radius:1rem ;
+}
+.nav-pills{
+    text-align: right;
+}
+.navigation.link-active{
+    font-weight: bold;
+}
+.sec h2{
+    text-align: center;
+    padding: 0.3rem;
+}
+.os{
+    background-color:#BFDBFE;
+    padding-bottom: 2rem;
+
+}
+.par-center{
+    text-align: center;
+    padding-top: 2px;
+    
+}
+.footer_color{
+    background-color:#1E40AF;
+    border-top-right-radius: 1rem;
+    padding:3rem;
+    margin-top: 2rem;
+}
+.spa{
+    padding:2rem;
+}
+.heading{
+    text-decoration: none;
+}
+.clo{
+    background-color:#BFDBFE; 
+    padding-bottom: 2rem;
+}
+.head_cl{
+    color:#f50057 ;
+}
+.python-align{
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+.par-center{
+
+    padding-top: 2rem;
+}
